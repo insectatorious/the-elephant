@@ -1,0 +1,22 @@
+{
+  "name": "the-elephant",
+  "homepage": "https://github.com/insectatorious/the-elephant",
+  "authors": [
+    "Sumanas Sarma <insectatorious@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "note-app-elements": "polymerlabs/note-app-elements",
+    "polymerfire": "firebase/polymerfire#^0.10.3"
+  }
+}
